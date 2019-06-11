@@ -1,0 +1,4 @@
+﻿  DigitalSys.cpp
+c:\polyethylene\programs\c++\digital sys\digitalsys\digitalsys\digitalsys.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DigitalSys.vcxproj -> C:\polyethylene\Programs\C++\Digital Sys\DigitalSys\Debug\DigitalSys.exe
+  DigitalSys.vcxproj -> C:\polyethylene\Programs\C++\Digital Sys\DigitalSys\Debug\DigitalSys.pdb (Partial PDB)
